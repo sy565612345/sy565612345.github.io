@@ -77,11 +77,11 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: PhD in Software Engineering
-        university: Tsinghua University (Beijing, China)
-        time: 2018 - 2013
-        details: |
-        - Advised by Prof. [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/)
+#       - degree: PhD in Software Engineering
+#         university: Tsinghua University (Beijing, China)
+#         time: 2018 - 2013
+#         details: |
+#         - Advised by Prof. [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/)
           
       - degree: Bachelor in Automation
         university: Tsinghua University (Beijing, China)
